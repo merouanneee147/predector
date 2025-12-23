@@ -1,0 +1,16 @@
+code_etudiant,nom,filiere,math_note,physique_note,info_note,electronique_note,anglais_note
+ETU001,Ahmed Benali,EEA,8.5,9.0,12.0,7.5,11.0
+ETU002,Fatima Zahra,EEA,15.0,16.5,14.0,15.5,13.0
+ETU003,Mohammed Alami,EEC,9.5,10.0,8.0,9.0,12.5
+ETU004,Zineb Idrissi,EED,6.0,7.5,5.5,6.5,8.0
+ETU005,Youssef Tazi,EEA,13.5,12.0,14.5,13.0,11.5
+ETU006,Salma Bennani,EEC,11.0,11.5,10.5,12.0,13.0
+ETU007,Karim El Fassi,EEA,16.5,17.0,15.5,16.0,14.5
+ETU008,Nadia Chraibi,EED,9.0,8.5,9.5,10.0,11.0
+ETU009,Omar Lahlou,EEC,7.0,6.5,8.0,7.5,9.5
+ETU010,Houda Kadiri,EEA,14.0,13.5,15.0,14.5,12.5
+ETU011,Rachid Bouali,EED,5.5,6.0,7.0,5.0,8.5
+ETU012,Samira Naciri,EEA,12.0,11.5,13.0,12.5,10.5
+ETU013,Hamza Moussaoui,EEC,8.0,9.5,7.5,8.5,10.0
+ETU014,Laila Berrada,EEA,17.0,16.0,17.5,16.5,15.0
+ETU015,Amine Senhaji,EED,10.5,11.0,9.5,10.0,12.0

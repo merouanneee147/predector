@@ -1,0 +1,55 @@
+LIME - Explications Locales
+============================================================
+
+ÉTUDIANT À RISQUE
+------------------------------------------------------------
+Prédiction: 99.92% de besoin de soutien
+
+Top 10 Features:
+  ↑ Augmente le risque: Total <= -0.52
+    Impact: +0.6923
+  ↓ Diminue le risque: Practical <= -1.03
+    Impact: -0.0542
+  ↑ Augmente le risque: Theoretical <= -0.64
+    Impact: +0.0492
+  ↑ Augmente le risque: Note_sur_20 <= -0.52
+    Impact: +0.0190
+  ↓ Diminue le risque: -1.10 < Semester <= 0.91
+    Impact: -0.0151
+  ↓ Diminue le risque: Filiere_encoded <= -1.37
+    Impact: +0.0000
+  ↓ Diminue le risque: pole_encoded <= -1.53
+    Impact: +0.0000
+  ↓ Diminue le risque: force_Langues_Communication <= -2.86
+    Impact: +0.0000
+  ↓ Diminue le risque: force_Mathematiques <= -2.65
+    Impact: +0.0000
+  ↓ Diminue le risque: force_Mecanique <= -1.52
+    Impact: +0.0000
+
+
+ÉTUDIANT PERFORMANT
+------------------------------------------------------------
+Prédiction: 0.03% de besoin de soutien
+
+Top 10 Features:
+  ↓ Diminue le risque: Total > 0.71
+    Impact: -0.6904
+  ↓ Diminue le risque: -1.10 < Semester <= 0.91
+    Impact: -0.0355
+  ↑ Augmente le risque: Note_sur_20 > 0.71
+    Impact: +0.0218
+  ↓ Diminue le risque: Theoretical > 0.70
+    Impact: -0.0123
+  ↓ Diminue le risque: Practical > 0.82
+    Impact: -0.0089
+  ↓ Diminue le risque: Filiere_encoded <= -1.37
+    Impact: +0.0000
+  ↓ Diminue le risque: pole_encoded <= -1.53
+    Impact: +0.0000
+  ↓ Diminue le risque: force_Langues_Communication <= -2.86
+    Impact: +0.0000
+  ↓ Diminue le risque: force_Mathematiques <= -2.65
+    Impact: +0.0000
+  ↓ Diminue le risque: force_Mecanique <= -1.52
+    Impact: +0.0000

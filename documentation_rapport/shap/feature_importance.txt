@@ -1,0 +1,23 @@
+SHAP Feature Importance - Top 20 Features
+============================================================
+
+ 1. Total                                    6.557255
+ 2. Note_sur_20                              1.524033
+ 3. student_support_rate                     0.819384
+ 4. module_avg_total                         0.720824
+ 5. charge_semestre                          0.675256
+ 6. modules_rattrapage                       0.284880
+ 7. distance_seuil                           0.263028
+ 8. combo_taux_echec                         0.254530
+ 9. force_Autres                             0.249900
+10. module_taux_echec                        0.226870
+11. student_avg_theoretical                  0.224698
+12. force_Langues_Communication              0.220600
+13. force_Physique                           0.208177
+14. module_effectif                          0.203606
+15. taux_absenteisme                         0.197779
+16. force_Electronique                       0.190250
+17. deviation_from_peer                      0.186941
+18. pole_encoded                             0.178132
+19. student_avg_total                        0.152981
+20. force_Automatique                        0.120673
